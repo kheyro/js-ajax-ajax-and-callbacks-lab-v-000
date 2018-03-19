@@ -14,6 +14,3 @@ function searchRepositories() {
     console.log('Something went wrong: ' + error);
   });
 }
-
-
-//https:\/\/api.github.com\/search\/repositories\?q=
